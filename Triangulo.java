@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class TrianguloMelissa {
+public class Triangulo {
     private static String stringlado1;
     private static String stringlado2;
     private static String stringlado3;
